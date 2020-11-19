@@ -7,6 +7,11 @@
 <br>
 <br>
 
+<img src="./images/apresentacao2.png">
+
+<br>
+<br>
+
 ---
 
 ## :book: **Sobre:**
