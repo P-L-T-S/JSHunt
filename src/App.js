@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css"
 import Header from "./components/Header/Header";
-import Main from "./pages/Main/Main"
+import Routes from "./routes";
 
 function App() {
   return (
     <div>
       <Header/>
-      <Main/>
+      <Routes/>
     </div>
   );
 };
